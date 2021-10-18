@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7a5a7f8-8059-495a-906e-5c90df2ebaa9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon11729_Retry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level06_function/Baekjoon1065.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level06_function/Baekjoon1065.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level06_function/Baekjoon15596.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level06_function/Baekjoon15596.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level06_function/Baekjoon4673.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level06_function/Baekjoon4673.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level07_string/Baekjoon1316.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level07_string/Baekjoon1316.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level07_string/Baekjoon2908.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level07_string/Baekjoon2908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level07_string/Baekjoon2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level07_string/Baekjoon2941.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level07_string/Beakjoon5622.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level07_string/Beakjoon5622.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon1011.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon1011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon1712.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon1712.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon2292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon2775.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon2775.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon2869.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon2869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level09_basic_math2/Baekjoon1002.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level09_basic_math2/Baekjoon1002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level09_basic_math2/Baekjoon2581.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level09_basic_math2/Baekjoon2581.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level09_basic_math2/Baekjoon2581_EratosthenesSieve.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level09_basic_math2/Baekjoon2581_EratosthenesSieve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon10870.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon10870.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon10872.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon10872.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon11729.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon11729.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon11729_retry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon2447.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon2447.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level11_brute_force/Baekjoon1018.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level11_brute_force/Baekjoon1018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level11_brute_force/Baekjoon1436.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level11_brute_force/Baekjoon1436.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level11_brute_force/Baekjoon7568.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level11_brute_force/Baekjoon7568.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon14888.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon14888.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon14889.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon14889.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon15649.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon15649.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon15650.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon15650.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon15651.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon15651.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon15652.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon15652.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Backjoon11053.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Backjoon11053.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Backjoon11054.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Backjoon11054.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Backjoon1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Backjoon1463.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon10844.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon10844.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon1149.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon1149.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon1932.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon1932.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon2156.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon2156.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon2579.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon2579.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon11047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon11399.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon11399.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon13305.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon13305.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon1541.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon1541.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon1931.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/src/level17_numberTheoryAndombinatorics/Backjoon1934.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level17_numberTheoryAndombinatorics/Backjoon1934.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1xH5ap1Z4M4wmjV0teZptuN49lk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Hyundai_Algorithm_Study" />
+      <recent name="C:\GitHub\Hyundai_Algorithm_Study\programmers" />
+      <recent name="C:\GitHub\Hyundai_Algorithm_Study\baekjoon\src" />
+      <recent name="C:\GitHub\Hyundai_Algorithm_Study\baekjoon\src\level14_backtracking" />
+      <recent name="C:\GitHub\Hyundai_Algorithm_Study\baekjoon\src\level10_recursion" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="level08_basic_math1" />
+      <recent name="level15_dynamicProgramming" />
+      <recent name="level14_backtracking" />
+      <recent name="level10_recursion" />
+      <recent name="level9_basic_math2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Programmers42748">
+    <configuration name="Baekjoon1065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.level06_function.Baekjoon1065" />
+      <module name="Hyundai_Algorithm_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.level06_function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.level16_greedyAlgorithm.Baekjoon11399" />
+      <module name="Hyundai_Algorithm_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.level16_greedyAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon13305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.level16_greedyAlgorithm.Baekjoon13305" />
+      <module name="Hyundai_Algorithm_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.level16_greedyAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.level16_greedyAlgorithm.Baekjoon1541" />
+      <module name="Hyundai_Algorithm_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.level16_greedyAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmers42748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.sort.Programmers42748" />
+      <module name="Hyundai_Algorithm_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Programmers42748" />
+        <item itemvalue="Application.Baekjoon1065" />
+        <item itemvalue="Application.Baekjoon13305" />
+        <item itemvalue="Application.Baekjoon1541" />
+        <item itemvalue="Application.Baekjoon11399" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7a5a7f8-8059-495a-906e-5c90df2ebaa9" name="Changes" comment="" />
+      <created>1629999240591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629999240591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
