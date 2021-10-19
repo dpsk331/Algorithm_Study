@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7a5a7f8-8059-495a-906e-5c90df2ebaa9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon11729_Retry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level06_function/Baekjoon1065.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level06_function/Baekjoon1065.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level06_function/Baekjoon15596.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level06_function/Baekjoon15596.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level06_function/Baekjoon4673.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level06_function/Baekjoon4673.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level07_string/Baekjoon1316.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level07_string/Baekjoon1316.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level07_string/Baekjoon2908.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level07_string/Baekjoon2908.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level07_string/Baekjoon2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level07_string/Baekjoon2941.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level07_string/Beakjoon5622.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level07_string/Beakjoon5622.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon1011.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon1011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon1712.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon1712.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon2292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon2775.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon2775.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level08_basic_math1/Baekjoon2869.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level08_basic_math1/Baekjoon2869.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level09_basic_math2/Baekjoon1002.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level09_basic_math2/Baekjoon1002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level09_basic_math2/Baekjoon2581.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level09_basic_math2/Baekjoon2581.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level09_basic_math2/Baekjoon2581_EratosthenesSieve.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level09_basic_math2/Baekjoon2581_EratosthenesSieve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon10870.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon10870.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon10872.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon10872.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon11729.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon11729.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon11729_retry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level10_recursion/Baekjoon2447.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level10_recursion/Baekjoon2447.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level11_brute_force/Baekjoon1018.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level11_brute_force/Baekjoon1018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level11_brute_force/Baekjoon1436.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level11_brute_force/Baekjoon1436.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level11_brute_force/Baekjoon7568.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level11_brute_force/Baekjoon7568.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon14888.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon14888.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon14889.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon14889.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon15649.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon15649.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon15650.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon15650.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon15651.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon15651.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level14_backtracking/Baekjoon15652.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level14_backtracking/Baekjoon15652.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Backjoon11053.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Backjoon11053.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Backjoon11054.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Backjoon11054.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Backjoon1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Backjoon1463.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon10844.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon10844.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon1149.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon1149.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon1932.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon1932.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon2156.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon2156.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level15_dynamicProgramming/Baekjoon2579.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level15_dynamicProgramming/Baekjoon2579.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon11047.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon11399.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon11399.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon13305.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon13305.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon1541.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon1541.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level16_greedyAlgorithm/Baekjoon1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level16_greedyAlgorithm/Baekjoon1931.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/level17_numberTheoryAndombinatorics/Backjoon1934.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmStudy/src/baekjoon/level17_numberTheoryAndombinatorics/Backjoon1934.java" afterDir="false" />
-    </list>
+    <list default="true" id="a7a5a7f8-8059-495a-906e-5c90df2ebaa9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
