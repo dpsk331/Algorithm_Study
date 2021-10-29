@@ -1,4 +1,4 @@
- [프로그래머스: SQL 고득점 Kit: GROUP BY 문제](https://programmers.co.kr/learn/courses/30/parts/17044)
+[프로그래머스: SQL 고득점 Kit: GROUP BY 문제](https://programmers.co.kr/learn/courses/30/parts/17044)
 
 ---
 
@@ -15,7 +15,11 @@ ANIMAL\_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담�
 | NAME | VARCHAR(N) | TRUE |
 | SEX\_UPON\_INTAKE | VARCHAR(N) | FALSE |
 
+<br />
+
 ---
+
+<br />
 
 ## **고양이와 개는 몇 마리 있을까**
 
@@ -40,6 +44,8 @@ ANIMAL\_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담�
 | Cat | 2 |
 | Dog | 1 |
 
+<br />
+
 ### **나의 풀이**
 
 ```
@@ -48,6 +54,8 @@ FROM ANIMAL_INS
 GROUP BY ANIMAL_TYPE
 ORDER BY ANIMAL_TYPE;
 ```
+
+<br />
 
 ---
 
@@ -91,6 +99,8 @@ HAVING COUNT(NAME) > 1
 ORDER BY NAME;
 ```
 
+<br />
+
 ---
 
 ## **입양 시각 구하기(1)**
@@ -117,6 +127,8 @@ SQL문을 실행하면 다음과 같이 나와야 합니다.
 | 18 | 16 |
 | 19 | 2 |
 
+<br />
+
 ### **나의 풀이**
 
 ```
@@ -126,6 +138,8 @@ GROUP BY HOUR
 HAVING HOUR >= 9 AND HOUR < 20
 ORDER BY HOUR;
 ```
+
+<br />
 
 ---
 
@@ -165,6 +179,8 @@ SQL문을 실행하면 다음과 같이 나와야 합니다.
 | 21 | 0 |
 | 22 | 0 |
 | 23 | 0 |
+
+<br />
 
 ### **나의 풀이**
 
