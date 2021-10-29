@@ -1,4 +1,4 @@
- [프로그래머스: SQL 고득점 Kit: SUM, MAX, MIN 문제](https://programmers.co.kr/learn/courses/30/parts/17043)
+[프로그래머스: SQL 고득점 Kit: SUM, MAX, MIN 문제](https://programmers.co.kr/learn/courses/30/parts/17043)
 
 ---
 
@@ -14,6 +14,8 @@ ANIMAL\_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담�
 | INTAKE\_CONDITION | VARCHAR(N) | FALSE |
 | NAME | VARCHAR(N) | TRUE |
 | SEX\_UPON\_INTAKE | VARCHAR(N) | FALSE |
+
+<br />
 
 ---
 
@@ -42,6 +44,8 @@ ANIMAL\_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담�
 
 ※ 컬럼 이름(위 예제에서는 "시간")은 일치하지 않아도 됩니다.
 
+<br />
+
 ### **나의 풀이**
 
 ```
@@ -50,6 +54,8 @@ FROM ANIMAL_INS
 WHERE DATETIME = (SELECT MAX(DATETIME)
                  FROM ANIMAL_INS);
 ```
+
+<br />
 
 ---
 
@@ -80,6 +86,8 @@ WHERE DATETIME = (SELECT MAX(DATETIME)
 
 ※ 컬럼 이름(위 예제에서는 "시간")은 일치하지 않아도 됩니다.
 
+<br />
+
 ### **나의 풀이**
 
 ```
@@ -88,6 +96,8 @@ FROM ANIMAL_INS
 WHERE DATETIME = (SELECT MIN(DATETIME) 
                   FROM ANIMAL_INS);
 ```
+
+<br />
 
 ---
 
@@ -116,12 +126,16 @@ WHERE DATETIME = (SELECT MIN(DATETIME)
 
 ※ 컬럼 이름(위 예제에서는 count)은 일치하지 않아도 됩니다.
 
+<br />
+
 ### **나의 풀이**
 
 ```
 SELECT COUNT(*)
 FROM ANIMAL_INS;
 ```
+
+<br />
 
 ---
 
@@ -149,6 +163,8 @@ FROM ANIMAL_INS;
 | 2 |
 
 ※ 컬럼 이름(위 예제에서는 count)은 일치하지 않아도 됩니다.
+
+<br />
 
 ### **나의 풀이**
 
