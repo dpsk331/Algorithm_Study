@@ -2,6 +2,7 @@ package programmers.sort;
 
 import java.util.Arrays;
 
+//코딩테스트 > K번째 수
 public class Programmers42748 {
     public static void main(String[] args) {
         int[] array = {1, 5, 2, 6, 3, 7, 4};
